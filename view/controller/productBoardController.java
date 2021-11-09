@@ -1,4 +1,4 @@
-/*작성자 이윤석*/
+
 
 /* productBoardController 기능
  * 
