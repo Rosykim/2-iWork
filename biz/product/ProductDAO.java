@@ -1,4 +1,3 @@
-/*작성자 이윤석*/
 
 package com.iwork.biz.product;
 
